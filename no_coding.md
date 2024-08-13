@@ -5,7 +5,7 @@
 
 # No code is required for this activity. 
 ## Step 1
-No code is required for this activity. 
+Kein No code is required for this activity. 
 
 ```template
 player.onChat("run", function () {
